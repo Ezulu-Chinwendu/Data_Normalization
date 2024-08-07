@@ -5,7 +5,7 @@ The goal of this task is to clean, normalize, and match company names from the p
 
 ## Files in the Repository
 
-- `data.csv`: The core dataset containing the company names.
+- `data.xlsx`: The core dataset containing the company names.
 - `normalize_company_names.py`: The Python script used for cleaning, normalizing, and matching company names.
 - `cleaned_company_data.csv`: The resulting dataset after all transformations.
 
